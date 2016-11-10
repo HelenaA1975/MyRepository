@@ -5,15 +5,15 @@ public class Horse extends Animal {
 		System.out.println("Hello from the constructor in the Horse class.");
 	}
 	
-	@override
+	@Override
 	public void eat(){
 		System.out.println("The horse eats.");
 	}
-	@override
+	@Override
 	public void sleep(){
 		System.out.println("The horse sleeps.");
 	}
-	@override
+	@Override
 	public void makeSound(){
 		System.out.println("The horse neighs.");
 	}
