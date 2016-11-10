@@ -6,6 +6,7 @@ public class MainClass {
 		Animal animal = new Animal();
 		System.out.println("We have created an animal.");
 		System.out.println("We have created an animal.");
+		System.out.println("We have created an animal.");
 		Horse horse = new Horse();
 		//System.out.println("We have created a horse.");
 		
